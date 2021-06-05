@@ -1,15 +1,14 @@
 # Midterm Assignment on GitHub
-This is an assignment from Fanshawe College
+This is an assignment from Fanshawe College.
 
 ## About the product
-
+Is a website for sell products of Gold Bond a brewery.
 
 ## Installation
 Copy repository from GitHub to prefer project location.
 
-
 ## Requirements
-
+A code editor like Atom, Sublime Text, Visual Studio, etc.
 
 ## Credits
 Gabriel Eugenio Chavez Portillo - CREATOR OF THIS REPOSITORY
